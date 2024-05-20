@@ -1,7 +1,9 @@
-
-<h1 align="center">Hi 👋, I'm Bhoja Suriyaguptha</h1>
+<h1 align="center">
+ <img src="https://img.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg?w=1380" />
+</h1>
+<h2 align="center">Hi 👋, I'm Bhoja Suriyaguptha</h2>
 <h3 align="center">A passionate frontend developer from Sri Lanka.</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/3d9ef72111f57a8c333f2d42a3cf14280024312c295f4b343cbc0da59005a9e0/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3333313236352f73637265656e73686f74732f323534323538372f676162692d642e676966">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/shriya2603/shriya2603/main/code.gif">
 
 
 🎓 I’m currently an IT undergraduate
@@ -12,7 +14,7 @@
 
 💬 Ask me about **Angular , Wordpress**
 
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://linkedin.com/in/bhoja suriyaguptha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhoja suriyaguptha" height="30" width="40" /></a>
 <a href="https://medium.com/@thilini suriyaguptha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@thilini suriyaguptha" height="30" width="40" /></a>
