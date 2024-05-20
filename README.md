@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://img.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg?w=1380" />
+ <img src="https://github.com/bhojasuriyaguptha/bhojasuriyaguptha/blob/main/Harper.png"/>
 </h1>
 <h2 align="center">Hi 👋, I'm Bhoja Suriyaguptha</h2>
 <h3 align="center">A passionate frontend developer from Sri Lanka.</h3>
