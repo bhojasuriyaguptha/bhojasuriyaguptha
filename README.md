@@ -10,7 +10,7 @@
 
 🌱I am currently learning Boostrap
 
-📝 I regularly write articles on [https://medium.com/@ThiliniSuriyaguptha](https://medium.com/@ThiliniSuriyaguptha) 
+📝 I regularly write articles on [https://medium.com/@BhojaSuriyaguptha](https://medium.com/@BhojaSuriyaguptha) 
 
 💬 Ask me about **Angular , Wordpress**
 
