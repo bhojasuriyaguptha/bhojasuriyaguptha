@@ -16,7 +16,6 @@
 
 💬 Ask me about **Angular , Wordpress**
 
-👩 Follow me on [Linkdin](https://www.linkedin.com/in/bhoja-suriyaguptha-758621264/) 
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
