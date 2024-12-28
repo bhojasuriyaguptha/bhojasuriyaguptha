@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/shriya2603/shriya2603/main/code.gif">
 
 
-🎓 I’m currently an IT undergraduate
+🎓 I’m currently an IT Management undergraduate
 
 🌱 I am currently learning Boostrap
 
