@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://github.com/bhojasuriyaguptha/bhojasuriyaguptha/blob/main/Harper.png"/>
+ <img src="https://github.com/bhojasuriyaguptha/bhojasuriyaguptha/blob/main/Gitimage (1).png"/>
 </h1>
 <h2 align="center">Hi 👋, I'm Bhoja Suriyaguptha</h2>
 <h3 align="center">A passionate frontend developer from Sri Lanka.</h3>
