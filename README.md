@@ -14,7 +14,7 @@
 
 💻 Click here to see my [Projects](https://drive.google.com/drive/folders/1tF6yKiN9fes8_mjuoqse9cDesAIXMP8k?usp=drive_link) 
 
-💻 Todo APP UI design [Todo App ](https://www.figma.com/design/rCYaLio6qu5l3DYc9xep9T/Todo-app?node-id=0-1&t=fgudl5n6KwxxRWQP-1) 
+📱 Todo APP UI design [Todo App ](https://www.figma.com/design/rCYaLio6qu5l3DYc9xep9T/Todo-app?node-id=0-1&t=fgudl5n6KwxxRWQP-1) 
 
 
 💬 Ask me about **Angular , Wordpress**
