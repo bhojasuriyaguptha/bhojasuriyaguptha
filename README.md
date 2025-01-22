@@ -2,7 +2,7 @@
  <img src="https://github.com/bhojasuriyaguptha/bhojasuriyaguptha/blob/main//MYGITIMG.png"/>
 </h1>
 <h2 align="center">Hi 👋, I'm Bhoja Suriyaguptha</h2>
-<h3 align="center">A passionate frontend developer from Sri Lanka.</h3>
+<h3 align="center">IT Management Final Year Undergraduate from Sri Lanka.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/shriya2603/shriya2603/main/code.gif">
 
 
