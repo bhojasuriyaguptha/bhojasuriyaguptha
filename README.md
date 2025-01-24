@@ -16,7 +16,7 @@
 
 📱 Todo APP UI design [Todo App ](https://www.figma.com/design/rCYaLio6qu5l3DYc9xep9T/Todo-app?node-id=0-1&t=fgudl5n6KwxxRWQP-1) 
 
-📱 Event planning App UI design [Todo App ](https://www.figma.com/design/axXxgWMWbiPeqYY0S7I3dh/event-booking-and-management-app?node-id=0-1&t=0PtekQcCgCWctT7Q-1) 
+📱 Event planning App UI design [Event Planning app](https://www.figma.com/design/axXxgWMWbiPeqYY0S7I3dh/event-booking-and-management-app?node-id=0-1&t=0PtekQcCgCWctT7Q-1) 
 
 
 💬 Ask me about **Angular , Wordpress**
