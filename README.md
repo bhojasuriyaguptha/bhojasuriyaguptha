@@ -10,7 +10,7 @@
 
 📝 I regularly write articles on [Medium](https://medium.com/@BhojaSuriyaguptha) 
 
-📱 I have done freelansing projects with wordepress. <br>  [1.Tosacana Travels & Tours](https://toscanasl.com/) 
+📱 I have done freelancing projects with wordepress. <br>  [👩‍💻1.Tosacana Travels & Tours](https://toscanasl.com/) 
 
 💻 Click here to see my [Projects](https://drive.google.com/drive/folders/1tF6yKiN9fes8_mjuoqse9cDesAIXMP8k?usp=drive_link) 
 
