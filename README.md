@@ -20,8 +20,9 @@
 
 📱 Event planning App UI design [Event Planning app](https://www.figma.com/design/axXxgWMWbiPeqYY0S7I3dh/event-booking-and-management-app?node-id=0-1&t=0PtekQcCgCWctT7Q-1) 
 
+💬 I am interest in  **Wordpress , Researching**
 
-💬 Ask me about **Angular , Wordpress**
+📑Find my CV [HERE](https://drive.google.com/file/d/1mBfQJNS_QLXUSPnpxKvTUgt4FThlIYxj/view?usp=sharing) 
 
 
 <h4 align="left">Connect with me:</h4>
