@@ -1,7 +1,7 @@
 <h1 align="center">
  <img src="https://github.com/bhojasuriyaguptha/bhojasuriyaguptha/blob/main//MYGITIMage.png"/>
 </h1>
-<h2 align="center">Hi 👋, I'm Bhoja Suriyaguptha</h2>
+<h2 align="center">Hi 👋, I'm Thilini B Suriyaguptha</h2>
 <h3 align="center">IT Management Final Year Undergraduate from Sri Lanka.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/shriya2603/shriya2603/main/code.gif">
 
@@ -16,13 +16,16 @@
 
 💻 Click here to see my [Independent studies (Case Studies)](https://drive.google.com/drive/folders/1V5zhDSqKG2eEEYfsgLRpjJ_O2celk1TD) 
 
-📱 Todo APP UI design [Todo App ](https://www.figma.com/design/rCYaLio6qu5l3DYc9xep9T/Todo-app?node-id=0-1&t=fgudl5n6KwxxRWQP-1) 
+1&t=0PtekQcCgCWctT7Q-1) 
 
-📱 Event planning App UI design [Event Planning app](https://www.figma.com/design/axXxgWMWbiPeqYY0S7I3dh/event-booking-and-management-app?node-id=0-1&t=0PtekQcCgCWctT7Q-1) 
+💻 Click here to see my [Portfolio](https://drive.google.com/drive/folders/1V5zhDSqKG2eEEYfsgLRpjJ_O2celk1TD) 
 
-💬 I am interest in  **Wordpress , Researching**
+1&t=0PtekQcCgCWctT7Q-1) 
 
-📑Find my CV [HERE](https://drive.google.com/file/d/1mBfQJNS_QLXUSPnpxKvTUgt4FThlIYxj/view?usp=sharing) 
+
+💬 I am interest in  **Wordpress , UIUX designing , Analysing ,  Researching**
+
+
 
 
 <h4 align="left">Connect with me:</h4>
