@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://github.com/bhojasuriyaguptha/bhojasuriyaguptha/blob/main//MYGITIMage.png"/>
+ <img src="https://github.com/bhojasuriyaguptha/bhojasuriyaguptha/blob/main//gitimg.png"/>
 </h1>
 <h2 align="center">Hi 👋, I'm Thilini B Suriyaguptha</h2>
 <h3 align="center">IT Management Final Year Undergraduate from Sri Lanka.</h3>
